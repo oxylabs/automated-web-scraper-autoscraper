@@ -1,5 +1,7 @@
 [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/Pds3gBmKMH)
+
 # Automated Web Scraper With Python AutoScraper
 
 This tutorial will show you how to automate your web scraping processes using AutoScaper – one of the several Python web scraping libraries available. 
