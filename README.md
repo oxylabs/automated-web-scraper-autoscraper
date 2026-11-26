@@ -1,4 +1,4 @@
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=automated-web-scraper-autoscraper-github&transaction_id=102f49063ab94276ae8f116d224b67)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=automated-web-scraper-autoscraper&utm_campaign=banner&groupid=877)
 
 <p align="left">
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
@@ -12,7 +12,7 @@
 
 This tutorial will show you how to automate your web scraping processes using AutoScaper – one of the several Python web scraping libraries available. 
 
-Check out a more detailed tutorial on [our blog](https://oxylabs.io/blog/automated-web-scraper-autoscraper).
+Check out a more detailed tutorial on [our blog](https://oxylabs.io/blog/automated-web-scraper-autoscraper?utm_source=github&utm_medium=referral&utm_content=automated-web-scraper-autoscraper&groupid=877).
 
 * [Methods to install AutoScraper](#methods-to-install-autoscraper)
   * [Scraping products with AutoScraper](#scraping-products-with-autoscraper)
@@ -219,9 +219,9 @@ print(data)
 
 Visit https://ip.oxylabs.io/, copy the displayed IP address, and paste it instead of YOUR_REAL_IP_ADDRESS in the ```WantedList```. This information will be used to tell AutoScraper what kind of data to look for.
 
-The proxy_endpoint refers to the address of a [proxy server](https://oxylabs.io/products/paid-proxy-servers) in the correct format (e.g., ```http://customer-USERNAME:PASSWORD@pr.oxylabs.io:7777```). The script above should work fine when proper proxy endpoints are added to the proxy dictionary. Every time you run the code, it outputs a proxy IP address that should be different from your actual IP. 
+The proxy_endpoint refers to the address of a [proxy server](https://oxylabs.io/products/paid-proxy-servers?utm_source=github&utm_medium=referral&utm_content=automated-web-scraper-autoscraper&groupid=877) in the correct format (e.g., ```http://customer-USERNAME:PASSWORD@pr.oxylabs.io:7777```). The script above should work fine when proper proxy endpoints are added to the proxy dictionary. Every time you run the code, it outputs a proxy IP address that should be different from your actual IP. 
 
-After you’ve successfully tested the proxy server connection, you can then use the [proxies](https://oxylabs.io/products/residential-proxy-pool) with the initial request like so:
+After you’ve successfully tested the proxy server connection, you can then use the [proxies](https://oxylabs.io/products/residential-proxy-pool?utm_source=github&utm_medium=referral&utm_content=automated-web-scraper-autoscraper&groupid=877) with the initial request like so:
 
 ```
 from autoscraper import AutoScraper
